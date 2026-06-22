@@ -1,6 +1,6 @@
 # Auth Tunnel (Minecraft Mod)
 
-Latest release: [Get the newest release here](https://github.com/<your-org>/auth-tunnel/releases)  
+Latest release: [Get the newest release here](https://github.com/erriicgit/auth-tunnel/releases)  
 (Replace the link above with the correct release URL for this repository.)
 
 ## What is this?
