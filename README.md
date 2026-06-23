@@ -7,7 +7,7 @@ If you are looking for the server software, please check out [auth-tunnel-server
 ## What is this?
 
 Auth Tunnel is a Minecraft client mod that adds an account selector for remote accounts hosted on an AuthTunnel server. Instead of storing multiple accounts locally, this mod lets you pick from accounts provided by a running AuthTunnel server.
-> ![WARNING]
+> [!WARNING]
 > This project is in very early development and is expected to be unstable and full of bugs. Use at your own risk. Feel free to report bugs by opening an issue.
 
 ## Screenshots
