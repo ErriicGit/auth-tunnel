@@ -6,7 +6,7 @@
     "AccountProfileKeyPairManagerMixin",
     "JoinMultiplayerScreenMixin",
     "MinecraftClientMixin",
-    "YggdrasilMinecraftSessionServiceMixin"
+    "MinecraftServicesSessionService"
   ],
   "injectors": {
     "defaultRequire": 1
